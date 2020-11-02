@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbfa8f2f-e661-42f1-a51c-0cb6b5748b39" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
+    <list default="true" id="fbfa8f2f-e661-42f1-a51c-0cb6b5748b39" name="Default Changelist" comment="4 webpage sections commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datacenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datacenter.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/virt_cont.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/virt_cont.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1jjxaeyhe2DU1bkS7SipTo8P9Ba" />
@@ -37,6 +38,12 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -48,12 +55,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604331366411</updated>
-      <workItem from="1604331367499" duration="1741000" />
+      <workItem from="1604331367499" duration="5602000" />
     </task>
+    <task id="LOCAL-00001" summary="4 webpage sections commit">
+      <created>1604333200658</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604333200659</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="4 webpage sections commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="4 webpage sections commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1604331574918">
@@ -72,5 +91,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="509" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604331982346" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604333235974">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604333235974" />
   </component>
 </project>
