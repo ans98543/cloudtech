@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbfa8f2f-e661-42f1-a51c-0cb6b5748b39" name="Default Changelist" comment="last 2 sections edit">
-      <change afterPath="$PROJECT_DIR$/docs/data_centers.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/virtual_machines.jpg" afterDir="false" />
+    <list default="true" id="fbfa8f2f-e661-42f1-a51c-0cb6b5748b39" name="Default Changelist" comment="two img commit">
+      <change afterPath="$PROJECT_DIR$/docs/docker_kub.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/datacenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datacenter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/kuber_docker.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/kuber_docker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorial.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/virt_cont.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/virt_cont.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604331366411</updated>
-      <workItem from="1604331367499" duration="9820000" />
+      <workItem from="1604331367499" duration="13782000" />
     </task>
     <task id="LOCAL-00001" summary="4 webpage sections commit">
       <created>1604333200658</created>
@@ -85,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604338183617</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="two img commit">
+      <created>1604361964221</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604361964222</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,13 +103,14 @@
     <MESSAGE value="4 webpage sections commit" />
     <MESSAGE value="first 2 sections edit" />
     <MESSAGE value="last 2 sections edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="last 2 sections edit" />
+    <MESSAGE value="two img commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="two img commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Deployment" timestamp="1604331574918">
+    <state x="275" y="22" key="#Deployment" timestamp="1604421893197">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1604331574918" />
+    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1604421893197" />
     <state x="259" y="9" key="#SSH_Configurations" timestamp="1604331423924">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -114,9 +123,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="509" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604331982346" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604338197210">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604361970173">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604338197210" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604361970173" />
   </component>
 </project>
