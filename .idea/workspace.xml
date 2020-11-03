@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fbfa8f2f-e661-42f1-a51c-0cb6b5748b39" name="Default Changelist" comment="first 2 sections edit">
+    <list default="true" id="fbfa8f2f-e661-42f1-a51c-0cb6b5748b39" name="Default Changelist" comment="last 2 sections edit">
+      <change afterPath="$PROJECT_DIR$/docs/data_centers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/virtual_machines.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/kuber_docker.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/kuber_docker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/tutorial.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/tutorial.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/datacenter.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/datacenter.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/virt_cont.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/virt_cont.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,12 @@
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ahmad\Webstorm\cloudtech\docs" />
+      <recent name="C:\Users\Ahmad\Webstorm\cloudtech" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604331366411</updated>
-      <workItem from="1604331367499" duration="6468000" />
+      <workItem from="1604331367499" duration="9820000" />
     </task>
     <task id="LOCAL-00001" summary="4 webpage sections commit">
       <created>1604333200658</created>
@@ -71,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604337451356</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="last 2 sections edit">
+      <created>1604338183617</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604338183617</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -80,7 +94,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="4 webpage sections commit" />
     <MESSAGE value="first 2 sections edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first 2 sections edit" />
+    <MESSAGE value="last 2 sections edit" />
+    <option name="LAST_COMMIT_MESSAGE" value="last 2 sections edit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="22" key="#Deployment" timestamp="1604331574918">
@@ -99,9 +114,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="509" y="69" key="Github.UntrackedFilesDialog/0.0.1366.728@0.0.1366.728" timestamp="1604331982346" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604337466675">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1604338197210">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604337466675" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1604338197210" />
   </component>
 </project>
